@@ -1,0 +1,528 @@
+{
+    "tags": [
+        {
+            "title": "React",
+            "amountOfVideos": 142
+        },
+        {
+            "title": "JavaScript",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "Python",
+            "amountOfVideos": 189
+        },
+        {
+            "title": "Java",
+            "amountOfVideos": 173
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 214
+        },
+        {
+            "title": "HTML",
+            "amountOfVideos": 162
+        },
+        {
+            "title": "CSS",
+            "amountOfVideos": 178
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 197
+        },
+        {
+            "title": "Vue.js",
+            "amountOfVideos": 183
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 190
+        },
+        {
+            "title": "Django",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "Ruby on Rails",
+            "amountOfVideos": 176
+        },
+        {
+            "title": "Swift",
+            "amountOfVideos": 193
+        },
+        {
+            "title": "C++",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "C#",
+            "amountOfVideos": 181
+        },
+        {
+            "title": "Rust",
+            "amountOfVideos": 177
+        },
+        {
+            "title": "Go",
+            "amountOfVideos": 188
+        },
+        {
+            "title": "TypeScript",
+            "amountOfVideos": 201
+        },
+        {
+            "title": "PHP",
+            "amountOfVideos": 170
+        },
+        {
+            "title": "SQL",
+            "amountOfVideos": 186
+        },
+        {
+            "title": "MongoDB",
+            "amountOfVideos": 180
+        },
+        {
+            "title": "Firebase",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "TensorFlow",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "Kotlin",
+            "amountOfVideos": 206
+        },
+        {
+            "title": "Unity",
+            "amountOfVideos": 169
+        },
+        {
+            "title": "Machine Learning",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "Artificial Intelligence",
+            "amountOfVideos": 185
+        },
+        {
+            "title": "Blockchain",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "Cybersecurity",
+            "amountOfVideos": 175
+        },
+        {
+            "title": "Data Science",
+            "amountOfVideos": 202
+        },
+        {
+            "title": "DevOps",
+            "amountOfVideos": 194
+        },
+        {
+            "title": "Cloud Computing",
+            "amountOfVideos": 179
+        },
+        {
+            "title": "Linux",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "Windows",
+            "amountOfVideos": 168
+        },
+        {
+            "title": "macOS",
+            "amountOfVideos": 184
+        },
+        {
+            "title": "Android",
+            "amountOfVideos": 199
+        },
+        {
+            "title": "iOS",
+            "amountOfVideos": 167
+        },
+        {
+            "title": "Flutter",
+            "amountOfVideos": 192
+        },
+        {
+            "title": "Xamarin",
+            "amountOfVideos": 176
+        },
+        {
+            "title": "React Native",
+            "amountOfVideos": 203
+        },
+        {
+            "title": "GraphQL",
+            "amountOfVideos": 171
+        },
+        {
+            "title": "RESTful API",
+            "amountOfVideos": 187
+        },
+        {
+            "title": "Microservices",
+            "amountOfVideos": 200
+        },
+        {
+            "title": "Docker",
+            "amountOfVideos": 174
+        },
+        {
+            "title": "Kubernetes",
+            "amountOfVideos": 201
+        },
+        {
+            "title": "Jenkins",
+            "amountOfVideos": 166
+        },
+        {
+            "title": "Git",
+            "amountOfVideos": 182
+        },
+        {
+            "title": "GitHub",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "Bitbucket",
+            "amountOfVideos": 173
+        },
+        {
+            "title": "Subversion",
+            "amountOfVideos": 187
+        },
+        {
+            "title": "Mercurial",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "Agile",
+            "amountOfVideos": 199
+        },
+        {
+            "title": "Scrum",
+            "amountOfVideos": 181
+        },
+        {
+            "title": "Kanban",
+            "amountOfVideos": 190
+        },
+        {
+            "title": "Lean",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "Six Sigma",
+            "amountOfVideos": 167
+        },
+        {
+            "title": "Prince2",
+            "amountOfVideos": 184
+        },
+        {
+            "title": "TOGAF",
+            "amountOfVideos": 179
+        },
+        {
+            "title": "ITIL",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "COBIT",
+            "amountOfVideos": 168
+        },
+        {
+            "title": "ISO 27001",
+            "amountOfVideos": 186
+        },
+        {
+            "title": "CISSP",
+            "amountOfVideos": 203
+        },
+        {
+            "title": "CEH",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "CompTIA Security+",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "CCNA",
+            "amountOfVideos": 175
+        },
+        {
+            "title": "CCNP",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "MCSE",
+            "amountOfVideos": 183
+        },
+        {
+            "title": "CISA",
+            "amountOfVideos": 200
+        },
+        {
+            "title": "CISM",
+            "amountOfVideos": 174
+        },
+        {
+            "title": "CRISC",
+            "amountOfVideos": 201
+        },
+        {
+            "title": "ITSM",
+            "amountOfVideos": 166
+        },
+        {
+            "title": "PMP",
+            "amountOfVideos": 182
+        },
+        {
+            "title": "CAPM",
+            "amountOfVideos": 199
+        },
+        {
+            "title": "PRINCE2",
+            "amountOfVideos": 181
+        },
+        {
+            "title": "PMI-ACP",
+            "amountOfVideos": 190
+        },
+        {
+            "title": "PMI-PBA",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "PMI-RMP",
+            "amountOfVideos": 167
+        },
+        {
+            "title": "PMI-SP",
+            "amountOfVideos": 184
+        },
+        {
+            "title": "Lean Six Sigma",
+            "amountOfVideos": 179
+        },
+        {
+            "title": "CBAP",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "CCBA",
+            "amountOfVideos": 168
+        },
+        {
+            "title": "ECBA",
+            "amountOfVideos": 186
+        },
+        {
+            "title": "AAC",
+            "amountOfVideos": 203
+        },
+        {
+            "title": "CBAT",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "CBA",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "CVA",
+            "amountOfVideos": 175
+        },
+        {
+            "title": "CBV",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "AACI",
+            "amountOfVideos": 183
+        },
+        {
+            "title": "LSSGB",
+            "amountOfVideos": 200
+        },
+        {
+            "title": "LSSBB",
+            "amountOfVideos": 174
+        },
+        {
+            "title": "CLSSGB",
+            "amountOfVideos": 201
+        },
+        {
+            "title": "CLSSBB",
+            "amountOfVideos": 166
+        },
+        {
+            "title": "CMSBB",
+            "amountOfVideos": 182
+        },
+        {
+            "title": "CPDC",
+            "amountOfVideos": 199
+        },
+        {
+            "title": "CDCS",
+            "amountOfVideos": 181
+        },
+        {
+            "title": "CDSP",
+            "amountOfVideos": 190
+        },
+        {
+            "title": "CDSA",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "CDSM",
+            "amountOfVideos": 167
+        },
+        {
+            "title": "CDAM",
+            "amountOfVideos": 184
+        },
+        {
+            "title": "CVAH",
+            "amountOfVideos": 179
+        },
+        {
+            "title": "CVA-50",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "CVA-200",
+            "amountOfVideos": 168
+        },
+        {
+            "title": "CVA-600",
+            "amountOfVideos": 186
+        },
+        {
+            "title": "CVA-1000",
+            "amountOfVideos": 203
+        },
+        {
+            "title": "CVA-1500",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "CVA-3000",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "CVA-6000",
+            "amountOfVideos": 175
+        },
+        {
+            "title": "CVA-10000",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "CVA-15000",
+            "amountOfVideos": 183
+        },
+        {
+            "title": "CVA-30000",
+            "amountOfVideos": 200
+        },
+        {
+            "title": "CVA-50000",
+            "amountOfVideos": 174
+        },
+        {
+            "title": "CVA-100000",
+            "amountOfVideos": 201
+        },
+        {
+            "title": "CVA-200000",
+            "amountOfVideos": 166
+        },
+        {
+            "title": "CVA-300000",
+            "amountOfVideos": 182
+        },
+        {
+            "title": "CVA-400000",
+            "amountOfVideos": 199
+        },
+        {
+            "title": "CVA-500000",
+            "amountOfVideos": 181
+        },
+        {
+            "title": "CVA-1000000",
+            "amountOfVideos": 190
+        },
+        {
+            "title": "CVA-2000000",
+            "amountOfVideos": 205
+        },
+        {
+            "title": "CVA-3000000",
+            "amountOfVideos": 167
+        },
+        {
+            "title": "CVA-4000000",
+            "amountOfVideos": 184
+        },
+        {
+            "title": "CVA-5000000",
+            "amountOfVideos": 179
+        },
+        {
+            "title": "CVA-10000000",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "CVA-20000000",
+            "amountOfVideos": 168
+        },
+        {
+            "title": "CVA-30000000",
+            "amountOfVideos": 186
+        },
+        {
+            "title": "CVA-40000000",
+            "amountOfVideos": 203
+        },
+        {
+            "title": "CVA-50000000",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "CVA-60000000",
+            "amountOfVideos": 191
+        },
+        {
+            "title": "CVA-70000000",
+            "amountOfVideos": 175
+        },
+        {
+            "title": "CVA-80000000",
+            "amountOfVideos": 198
+        },
+        {
+            "title": "CVA-90000000",
+            "amountOfVideos": 183
+        },
+        {
+            "title": "CVA-100000000",
+            "amountOfVideos": 200
+        }
+    ]
+}
